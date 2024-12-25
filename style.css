@@ -35,6 +35,7 @@ nav a:hover {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+
 img {
     max-width: 100%;
     height: auto;
@@ -44,9 +45,8 @@ table {
     width: 100%;
     border-collapse: collapse;
 }
-
 table, th, td {
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
     padding: 8px;
 }
 
