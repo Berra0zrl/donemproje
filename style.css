@@ -54,3 +54,7 @@ table, th, td {
 th {
     background-color: #303030;
 }
+
+a:link{
+    color: white;
+}
